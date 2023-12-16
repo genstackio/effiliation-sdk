@@ -1,6 +1,6 @@
 {
   "name": "@genstackio/effiliation-sdk",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "SDK for Effiliation",
   "license": "MIT",
   "main": "lib/index.js",
